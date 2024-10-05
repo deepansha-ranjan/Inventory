@@ -21,21 +21,21 @@ This is a web application for managing a book inventory, allowing users to add, 
 - Node.js
 
 
-### Installation
+## Installation
 
 
 
-### USAGE:
+## USAGE:
 
-## User Authentication
+### User Authentication
 
 1)Sign Up: Create a new account.
 2)Login: Access your account with email and password.
 
-## Book Management 
+### Book Management 
 1) Add Book: Add a new book with details like title, author, and description.
 2)View Books: View a list of all books in the inventory.
 3)Delete Book: Remove a book from the inventory.
 
-## License 
+### License 
 This project is licensed under the MIT License.
