@@ -23,22 +23,19 @@ This is a web application for managing a book inventory, allowing users to add, 
 
 ### Installation
 
- **Clone the repository:**
-   ```bash
-   git clone https://github.com/deepansha-ranjan/Inventory.git
-   cd Inventory
 
-<h3> USAGE:</h3>
 
-<h4>User Authentication</h4>
+### USAGE:
+
+## User Authentication
 
 1)Sign Up: Create a new account.
 2)Login: Access your account with email and password.
 
-<h4> Book Management </h4>
+## Book Management 
 1) Add Book: Add a new book with details like title, author, and description.
 2)View Books: View a list of all books in the inventory.
 3)Delete Book: Remove a book from the inventory.
 
-<h3> License </h3>
+## License 
 This project is licensed under the MIT License.
